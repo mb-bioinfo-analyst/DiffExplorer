@@ -10,6 +10,9 @@ This is a sample application that showcases the functionality of the App.
 
 [![Watch the video](https://media.giphy.com/media/8b29QJQgVwUW4/giphy.gif)](https://drive.google.com/file/d/1pa5Kn7ED6YvuvJ53EMX8HuNZzVqAdrOh/view?usp=drive_link)
 
+
+Click Play to watch the Demo video! (google account required)
+
 ## About the App
 
 The DiffExplorer App is a web-based application that allows users to perform various data processing and visualization tasks. It provides a user-friendly interface to upload data files, apply filters, and generate interactive visualizations. The app is built using R and Python, leveraging popular libraries such as Shiny and Plotly.
