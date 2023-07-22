@@ -4,8 +4,7 @@ An app to explore high confidence of differences(HCDiff) files
   <img src="https://media.giphy.com/media/4JEGvm7EV3KOsYNAvZ/giphy.gif" width="100px"/>
 </div>
 
-
-This is a sample application that showcases the functionality of the App.
+Disclaimer: The app is in write-up stage for publication. 
 
 
 [![Watch the video](https://media.giphy.com/media/8b29QJQgVwUW4/giphy.gif)](https://drive.google.com/file/d/1pa5Kn7ED6YvuvJ53EMX8HuNZzVqAdrOh/view?usp=drive_link)
@@ -15,15 +14,16 @@ Click Play to watch the Demo video! (google account required)
 
 ## About the App
 
-The DiffExplorer App is a web-based application that allows users to perform various data processing and visualization tasks. It provides a user-friendly interface to upload data files, apply filters, and generate interactive visualizations. The app is built using R and Python, leveraging popular libraries such as Shiny and Plotly.
-We are working to make this as a desktop application for windows, mac and linux, not to forget making a lighter version for mobile platforms such as android and ios.
+The DiffExplorer App is a standalone desktop application application that allows users to perform various data processing in exome data. It provides a user-friendly interface to upload data files, apply filters, and links to winterVar db for ACMG analysis. The app is built using R and Python, electron and inno setup compiler, leveraging popular libraries such as Shiny and Pandas.
+Currently this app is functional for only windows platform but we are working to make this desktop application for mac and linux, not to forget making a lighter version for mobile platforms such as android and ios.
 
 ## Features
 
 - Data upload: Users can upload data files in .hcdiff format or choose from example data.
 - Data filtering: Users can apply filters to select specific data subsets for analysis.
-- Interactive visualizations: The app provides interactive charts and tables for data exploration.
+- Summary: The app provides various tables for input data overview.
 - Export options: Users can download filtered data or visualizations in various formats such as CSV and Excel.
+- ACMG Analysis: App generates automated links for winterVar db to assess the variant according to ACMG guidelines.
 
 ## Feedback and Contributions
 
