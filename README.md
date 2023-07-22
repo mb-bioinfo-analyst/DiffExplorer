@@ -1,15 +1,19 @@
-# DiffExplorer
-An app to explore high confidence of differences(HCDiff) files
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4JEGvm7EV3KOsYNAvZ/giphy.gif" width="100px"/>
 </div>
 
+# DiffExplorer
+An app to explore high confidence of differences(HCDiff) files
+
+
 Disclaimer: The app is in write-up stage for publication. 
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/wRVOarK7hGY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDGZDv_HenVmWPvpi49VNfEaNqxqw)](https://youtu.be/wRVOarK7hGY)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/wRVOarK7hGY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDGZDv_HenVmWPvpi49VNfEaNqxqw)](https://youtu.be/wRVOarK7hGY) 
 
 
-**Click the DiffExplorer image above to watch the Demo video!**
+**Click the DiffExplorer image above to watch the Demo video!**    
+
+
 
 ## About the App
 
